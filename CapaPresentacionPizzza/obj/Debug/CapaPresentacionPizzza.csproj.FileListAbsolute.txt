@@ -1,0 +1,131 @@
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe.config
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Creden.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IuLoginj.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Pizzeria.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.Properties.Resources.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.GenerateResource.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CopyComplete
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.exe
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Adiciones.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseña.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe.config
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Adiciones.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseña.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Creden.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IuLoginj.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Pizzeria.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.Properties.Resources.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.exe
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUListaMenus.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IULoginPizzeria.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarAdiciones.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarPizzas.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdminPizzeria.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUFactura.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarAdiciones.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarPizzas.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdminPizzeria.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUFactura.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUListaMenus.resources
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IULoginPizzeria.resources
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Grafica.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe.config
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarAdiciones.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarPizzas.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdminPizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUFactura.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Adiciones.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseña.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Creden.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Grafica.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IuLoginj.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Pizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUListaMenus.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IULoginPizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.Properties.Resources.resources
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.GenerateResource.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CopyComplete
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.exe
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseñaPizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarAdiciones.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarPizzas.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdminPizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUFactura.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Adiciones.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseña.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseñaPizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Creden.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Grafica.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IuLoginj.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Pizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUListaMenus.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IULoginPizzeria.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.Properties.Resources.resources
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.GenerateResource.cache
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.exe
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe.config
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.exe
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaPresentacionPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.dll
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\Comunes.pdb
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\AppTerminada\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CopyComplete
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarAdiciones.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdministrarPizzas.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUAdminPizzeria.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUFactura.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Adiciones.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseña.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_CambiarContraseñaPizzeria.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Creden.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Grafica.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IuLoginj.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IU_Pizzeria.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IUListaMenus.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.IULoginPizzeria.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.Properties.Resources.resources
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.GenerateResource.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.exe
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaPresentacionPizzza\obj\Debug\CapaPresentacionPizzza.pdb

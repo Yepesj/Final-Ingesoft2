@@ -1,0 +1,54 @@
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CopyComplete
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CopyComplete
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.dll
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CopyComplete
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\andre\Downloads\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaLogicaNegociosPizzza.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\bin\Debug\Comunes.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.csproj.CopyComplete
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaLogicaNegociosPizzza\obj\Debug\CapaLogicaNegociosPizzza.pdb

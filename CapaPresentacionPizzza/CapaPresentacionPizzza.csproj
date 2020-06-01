@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{897ABDF9-F192-4F6B-854B-AD0BB3F50FE8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacionPizzza</RootNamespace>
+    <AssemblyName>CapaPresentacionPizzza</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IUAdministrarPizzas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUAdministrarPizzas.Designer.cs">
+      <DependentUpon>IUAdministrarPizzas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUAdminPizzeria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUAdminPizzeria.Designer.cs">
+      <DependentUpon>IUAdminPizzeria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUAdministrarAdiciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUAdministrarAdiciones.Designer.cs">
+      <DependentUpon>IUAdministrarAdiciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUFactura.Designer.cs">
+      <DependentUpon>IUFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IU_Adiciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU_Adiciones.Designer.cs">
+      <DependentUpon>IU_Adiciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IU_CambiarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU_CambiarContraseña.Designer.cs">
+      <DependentUpon>IU_CambiarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IU_CambiarContraseñaPizzeria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU_CambiarContraseñaPizzeria.Designer.cs">
+      <DependentUpon>IU_CambiarContraseñaPizzeria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IU_Credenciales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU_Credenciales.Designer.cs">
+      <DependentUpon>IU_Credenciales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IU_Grafica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU_Grafica.Designer.cs">
+      <DependentUpon>IU_Grafica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IU_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU_Login.Designer.cs">
+      <DependentUpon>IU_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IU_Pizzeria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU_Pizzeria.Designer.cs">
+      <DependentUpon>IU_Pizzeria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUListaMenus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUListaMenus.Designer.cs">
+      <DependentUpon>IUListaMenus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IULoginPizzeria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IULoginPizzeria.Designer.cs">
+      <DependentUpon>IULoginPizzeria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="IUAdministrarAdiciones.resx">
+      <DependentUpon>IUAdministrarAdiciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUAdministrarPizzas.resx">
+      <DependentUpon>IUAdministrarPizzas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUAdminPizzeria.resx">
+      <DependentUpon>IUAdminPizzeria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUFactura.resx">
+      <DependentUpon>IUFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU_Adiciones.resx">
+      <DependentUpon>IU_Adiciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU_CambiarContraseña.resx">
+      <DependentUpon>IU_CambiarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU_CambiarContraseñaPizzeria.resx">
+      <DependentUpon>IU_CambiarContraseñaPizzeria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU_Credenciales.resx">
+      <DependentUpon>IU_Credenciales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU_Grafica.resx">
+      <DependentUpon>IU_Grafica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU_Login.resx">
+      <DependentUpon>IU_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU_Pizzeria.resx">
+      <DependentUpon>IU_Pizzeria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUListaMenus.resx">
+      <DependentUpon>IUListaMenus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IULoginPizzeria.resx">
+      <DependentUpon>IULoginPizzeria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaLogicaNegociosPizzza\CapaLogicaNegociosPizzza.csproj">
+      <Project>{cb436f2d-9b33-428c-a9ca-74ebaeed46d4}</Project>
+      <Name>CapaLogicaNegociosPizzza</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Comunes\Comunes.csproj">
+      <Project>{633c7f2e-c4c3-4c3f-b1bf-9bc39164e0ca}</Project>
+      <Name>Comunes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

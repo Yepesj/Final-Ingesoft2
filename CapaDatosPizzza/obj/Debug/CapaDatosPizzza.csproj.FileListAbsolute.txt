@@ -1,0 +1,30 @@
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Desktop\Universidad\CrotoGraicaPizzza\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\andre\Downloads\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.dll
+C:\Users\andre\Downloads\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaDatosPizzza\bin\Debug\CapaDatosPizzza.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csprojAssemblyReference.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\CapaDatosPizzza\obj\Debug\CapaDatosPizzza.pdb

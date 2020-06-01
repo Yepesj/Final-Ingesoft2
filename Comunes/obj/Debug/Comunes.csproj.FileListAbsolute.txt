@@ -1,0 +1,24 @@
+C:\Users\Sebastián\source\repos\AplicacionPizzza\Comunes\bin\Debug\Comunes.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\Comunes\bin\Debug\Comunes.pdb
+C:\Users\Sebastián\source\repos\AplicacionPizzza\Comunes\obj\Debug\Comunes.csprojAssemblyReference.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\Comunes\obj\Debug\Comunes.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\source\repos\AplicacionPizzza\Comunes\obj\Debug\Comunes.dll
+C:\Users\Sebastián\source\repos\AplicacionPizzza\Comunes\obj\Debug\Comunes.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\Comunes\bin\Debug\Comunes.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\Comunes\bin\Debug\Comunes.pdb
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\Comunes\obj\Debug\Comunes.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\Comunes\obj\Debug\Comunes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\Comunes\obj\Debug\Comunes.dll
+C:\Users\Asus\Desktop\Proyecto is1\AplicacionPizzza\Comunes\obj\Debug\Comunes.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\Comunes\bin\Debug\Comunes.dll
+C:\Users\andre\Downloads\AplicacionPizzza\Comunes\bin\Debug\Comunes.pdb
+C:\Users\andre\Downloads\AplicacionPizzza\Comunes\obj\Debug\Comunes.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\AplicacionPizzza\Comunes\obj\Debug\Comunes.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\AplicacionPizzza\Comunes\obj\Debug\Comunes.dll
+C:\Users\andre\Downloads\AplicacionPizzza\Comunes\obj\Debug\Comunes.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\Comunes\bin\Debug\Comunes.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\Comunes\bin\Debug\Comunes.pdb
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\Comunes\obj\Debug\Comunes.csprojAssemblyReference.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\Comunes\obj\Debug\Comunes.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\Comunes\obj\Debug\Comunes.dll
+C:\Users\Sebastián\Downloads\Escritorio\AplicacionPizzza\Comunes\obj\Debug\Comunes.pdb
